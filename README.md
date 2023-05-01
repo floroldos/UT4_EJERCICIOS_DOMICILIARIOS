@@ -3,7 +3,7 @@
 - PD2
 - TA9
 - UT2_PD2 -- LISTO
-- UT2_PD3
+- UT2_PD3 -- LISTO
 - UT2_PD4 -- LISTO
 - UT4_PD0
 - UT4_PD1
